@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+I'm trying out NextJS and made a simple blog mockup.
